@@ -29,8 +29,6 @@
   * Localization/
     * <readme.md> v2.1.2.0
     * <quickstart.md>  v1.0.1.1
-* closes #6 - English <us-en.cfg>
-* updates #5 - Localization - Master
 
 ### Status 0.9.99.0
 

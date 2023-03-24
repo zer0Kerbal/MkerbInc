@@ -13,9 +13,9 @@
 * Released
   * 23 Mar 2023
   * for Kerbal Space Program 1.12.5
-  * by zer0Kerbal
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Creation by zer0Kerbal
+### Creation by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 * Create
   * Flags
@@ -29,14 +29,26 @@
   * Localization/
     * <readme.md> v2.1.2.0
     * <quickstart.md>  v1.0.1.1
+  * closes #11 - English <en-us.cfg>
+  * closes #9 - Create Localization directory and contents
+  * updates #10 - Localization - Master
+
+### Documentation 0.9.99.0
+
+* Create
+  * Flags
+  * Agent
+* closes #6 - Create HeroLogo.png
+* closes #7 - Create GitHub Pages
+* closes #8 - Create HeroLogo.png
+* closes #28 - Create Agency
 
 ### Status 0.9.99.0
 
 * Issues
-
-  * closes #1 - Mkerb Inc (MKERB) 0.9.99.0-prerelease `<Welcome to the Circus Boardroom>`
-  * closes #2 - 0.9.99.0 Verify Legal Mumbo Jumbo
-  * closes #3 - 0.9.99.0 Update Documentation
-  * closes #4 - 0.9.99.0 Update Social Media
+  * closes #2 - Mkerb Inc (MKERB) 0.9.99.0-prerelease `<IPO>` edition
+  * closes #3 - 0.9.99.0 Create Legal Mumbo Jumbo
+  * closes #4 - 0.9.99.0 Create Documentation
+  * closes #5 - 0.9.99.0 Create Social Media Presence
 
 ---

@@ -15,7 +15,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-Agent, flags and common configs for Lunatic Aeronautics.
+Agent, flags and common configs for Mkerb Inc.
 
 ## Installation Instructions
 
@@ -25,33 +25,33 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `LunaticAeronautics` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `Mkerb` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/LunaticAeronautics/LunaticAeronauticsLtd`
-* Extract the package's `LunaticAeronautics` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/LunaticAeronautics` --> `<KSP_ROOT>/GameData/`
+  * Delete `<KSP_ROOT>/GameData/Mkerb/MkerbLtd`
+* Extract the package's `Mkerb` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/Mkerb` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/LunaticAeronautics/LunaticAeronauticsLtd`
+  * you should end up with `<KSP_ROOT>/GameData/Mkerb/MkerbLtd`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/LunaticAeronautics/LunaticAeronauticsLtd`
+  * Delete `<KSP_ROOT>/GameData/Mkerb/MkerbLtd`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/LunaticAeronautics/LunaticAeronauticsLtd`
+  * you should end up with `<KSP_ROOT>/GameData/Mkerb/MkerbLtd`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [LunaticAeronautics]
-      + [LunaticAeronauticsLtd]
+    + [Mkerb]
+      + [MkerbLtd]
         + [Agencies]
           ...
         + [Compatibility]
@@ -66,7 +66,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * Attributions.htm
         * changelog.md
         * GP:2-0.txt
-        * LunaticAeronauticsLtd.version
+        * MkerbLtd.version
         * ManualInstallation.htm
         * readme.htm
         ...

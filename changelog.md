@@ -18,7 +18,12 @@
 * adjust flag dimensions (short width bolt!)
   * input from ManuxKerb
 * Add strings from Science Instruments (MSI)
-* 
+  * [en-us.cfg] v1.1.0.0
+  * [ScienceDefs.cfg] v1.0.0.0
+
+* closes #29 - Mkerb Inc (MKERB) 1.0.0.0-release `<Mkerb Inc.®>` edition
+* closes #30 - 1.0.0.0 Additional Tasks
+* updates #10 - Localization - Master
 
 ---
 

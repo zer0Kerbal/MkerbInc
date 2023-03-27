@@ -8,6 +8,20 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LunaticAeronauticsLtd) |
 
+## Version 1.0.0.0-release `<Mkerb Inc.®>` edition
+
+* Released
+  * 26 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* adjust flag dimensions (short width bolt!)
+  * input from ManuxKerb
+* Add strings from Science Instruments (MSI)
+* 
+
+---
+
 ## Version 0.9.99.0-prerelease `<IPO>` edition
 
 * Released

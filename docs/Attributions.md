@@ -4,11 +4,10 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!--
-Attributions.md v1.0.0.0
+<!-- Attributions.md v1.0.1.0
 Mkerb Inc (MKERB)
 created: 23 Mar 2023
-updated: 
+updated: 05 Jul 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -19,8 +18,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Mkerb Inc (MKERB)
-
+## [Mkerb Inc (MKERB)][mod]
 [Home](./index.md)
 
 ## Attribution
@@ -75,4 +73,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
 </ul>
 
-THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MkerbInc "Mkerb Inc (MKERB)"

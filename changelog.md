@@ -15,6 +15,42 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+### Change Summary 2.0.99.1
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+    * Tack [chakra2017](https://github.com/chakra2017)
+
+### Changes 2.0.99.1
+
+#### Localization 2.0.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * add header, give credit
+  * translate additional strings
+  * find and fix several typos
+    * [en-us.cfg] v1.1.1.0
+    * [ru.cfg] v1.0.1.0
+    * [sw-sw.cfg] v1.0.1.0
+
+#### Documentation 2.0.99.1
+
+* Update
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [readme.md] v2.0.99.1
+  * [ReleaseLayout.md] v2.0.99.1
+
 ---
 
 ## Version 1.0.0.0-release `<Mkerb Inc.®>` edition

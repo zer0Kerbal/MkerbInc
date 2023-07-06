@@ -2,17 +2,15 @@
 permalink: /Why.html
 title: Why
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: forty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Why.md v1.1.0.1
+<!-- Why.md v1.0.1.0
 Mkerb Inc (MKERB)
-created: 01 Apr 2019
-updated: 
+created: 23 Mar 2023
+updated: 05 Jul 2023
 -->
 
-# Mkerb Inc (MKERB)
+## [Mkerb Inc (MKERB)][mod]
 
 [Home](/index.md)
 
@@ -28,4 +26,7 @@ updated:
 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MkerbInc "Mkerb Inc (MKERB)"

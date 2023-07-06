@@ -37,9 +37,9 @@ an original creation by *KerbSimpleCo*
 
 ### Localization
 
->* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
->* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github.com/evanisrael)
->* ![Swedish (Svenska)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png) Swedish (Svenska) - Tack [chakra2017](https://github.com/chakra2017)
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English  
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github.com/evanisrael)  
+>* ![Swedish (Svenska)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png) Swedish (Svenska) - Tack [chakra2017](https://github.com/chakra2017)  
 >* ***your translation here***
 
 ### Installation Directions
@@ -129,7 +129,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/MkerbInc/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/MkerbInc/discussions "Discussions"
-[flags]: https://zer0kerbal.github.io/MkerbInc/Flags "Flags
+[flags]: https://zer0kerbal.github.io/MkerbInc/Flags "Flags"
 [forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/215790-*/  "Mkerb Inc (MKERB)"
 [issue]: https://github.com/zer0Kerbal/MkerbInc/issues "Issues"
 [notic]: https://zer0kerbal.github.io/MkerbInc/Notices "GitHub Pages"

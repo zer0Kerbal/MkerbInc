@@ -22,15 +22,16 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 [Home](./index.md)
 
-## Flags <!-- omit from toc -->
-1. [Manux Kerb](#manux-kerb)
-2. [ManuxKerb (b)](#manuxkerb-b)
-3. [ManuxKerb (black)](#manuxkerb-black)
-4. [ManuxKerb (transparent)](#manuxkerb-transparent)
-5. [ManuxKerb (white)](#manuxkerb-white)
-6. [ManuxKerb (white with logo)](#manuxkerb-white-with-logo)
-7. [Mkerb (transparent)](#mkerb-transparent)
-8. [Mkerb (white)](#mkerb-white)
+## Flags
+<!-- no toc -->
+* [Manux Kerb](#manux-kerb)
+* [ManuxKerb (b)](#manuxkerb-b)
+* [ManuxKerb (black)](#manuxkerb-black)
+* [ManuxKerb (transparent)](#manuxkerb-transparent)
+* [ManuxKerb (white)](#manuxkerb-white)
+* [ManuxKerb (white with logo)](#manuxkerb-white-with-logo)
+* [Mkerb (transparent)](#mkerb-transparent)
+* [Mkerb (white)](#mkerb-white)
 
 ### Manux Kerb
 

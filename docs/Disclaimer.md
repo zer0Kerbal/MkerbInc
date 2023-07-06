@@ -6,12 +6,12 @@ tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Disclaimer.md v1.0.1.0
 Mkerb Inc (MKERB)
-created: 01 Apr 2022
-updated: 21 Jul 2022
+created: 23 Mar 2023
+updated: 05 Jul 2023
 
 based upon work by godarklight -->
 
-# Mkerb Inc (MKERB)
+## [Mkerb Inc (MKERB)][mod]
 
 [Home](/index.md)
 
@@ -29,4 +29,7 @@ based upon work by godarklight -->
 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MkerbInc "Mkerb Inc (MKERB)"

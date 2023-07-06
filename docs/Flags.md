@@ -28,7 +28,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 3. [ManuxKerb (black)](#manuxkerb-black)
 4. [ManuxKerb (transparent)](#manuxkerb-transparent)
 5. [ManuxKerb (white)](#manuxkerb-white)
-6. [ManuxKerb (wb)](#manuxkerb-wb)
+6. [ManuxKerb (white with logo)](#manuxkerb-white-with-logo)
 7. [Mkerb (transparent)](#mkerb-transparent)
 8. [Mkerb (white)](#mkerb-white)
 
@@ -62,7 +62,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 [top](#flags)
 
-### ManuxKerb (wb)
+### ManuxKerb (white with logo)
 
  <img src="https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/docs/Flags/ManuxKerb-wb.png" alt="ManuxKerb-w" style="zoom:75%;" />
 

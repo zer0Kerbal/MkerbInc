@@ -28,6 +28,12 @@
 
 ### Changes 1.0.1.0
 
+#### Resources 1.0.1.0
+
+* Update
+  * [ScienceDefs.cfg] v1.0.1.0
+    * typos
+
 #### Localization 1.0.1.0
 
 * Add

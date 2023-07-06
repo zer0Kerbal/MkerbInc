@@ -9,7 +9,11 @@ Mkerb Inc (MKERB)
 created: 23 Mar 2023
 updated: 05 Jul 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
+
+based upon work by Lisias -->
 
 ## [Mkerb Inc (MKERB)][mod]
 
@@ -65,9 +69,9 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * #.#.#.#.htm
         * Attributions.htm
         * changelog.md
-        * GP:2-0.txt
-        * MkerbLtd.version
+        * GPL-2.0+ARR.txt
         * ManualInstallation.htm
+        * MkerbLtd.version
         * readme.htm
         ...
     ...

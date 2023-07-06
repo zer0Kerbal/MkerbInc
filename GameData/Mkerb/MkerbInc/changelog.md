@@ -2,7 +2,7 @@
   
 | modName    | Mkerb Inc (MKERB)                                                  |
 | ---------- | ------------------------------------------------------------------ |
-| license    | GPL-2.0                                                            |
+| license    | GPL-2.0+ARR                                                        |
 | author     | ManuxKerb and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/)  |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |

@@ -8,6 +8,15 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LunaticAeronauticsLtd) |
 
+## Version 1.0.1.0-release `<Спасибо evanisrael, Tack chakra2017>` edition
+
+* Released
+  * 05 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+---
+
 ## Version 1.0.0.0-release `<Mkerb Inc.®>` edition
 
 * Released

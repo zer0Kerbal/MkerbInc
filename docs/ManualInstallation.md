@@ -4,14 +4,14 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- ManualInstallation.md v1.1.8.1
+<!-- ManualInstallation.md v1.0.1.0
 Mkerb Inc (MKERB)
-created: 01 Oct 2019
-updated: 29 Jul 2022 -->
+created: 23 Mar 2023
+updated: 05 Jul 2023
 
 <!-- based upon work by Lisias -->
 
-# Mkerb Inc (MKERB)
+## [Mkerb Inc (MKERB)][mod]
 
 [Home](./index.md)
 
@@ -79,3 +79,8 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 ### Dependencies
 
 * none
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/MkerbInc "Mkerb Inc (MKERB)"
